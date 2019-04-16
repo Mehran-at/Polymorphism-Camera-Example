@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f0e6a1b-5f55-44ff-80e0-09dfe94bd97b" name="Default Changelist" comment="" />
+    <list default="true" id="2f0e6a1b-5f55-44ff-80e0-09dfe94bd97b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/highestsellerscamera/MostSellersCameraIn2018Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/most-sellers-camera-application/highestsellerscamera/Camera.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/most-sellers-camera-application/highestsellerscamera/Canon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/most-sellers-camera-application/highestsellerscamera/Fuji.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/most-sellers-camera-application/highestsellerscamera/MostSellersCameraIn2018.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/most-sellers-camera-application/highestsellerscamera/Nikon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/most-sellers-camera-application/highestsellerscamera/NikonTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/most-sellers-camera-application/highestsellerscamera/Panasonic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/highestsellerscamera/Camera.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/highestsellerscamera/Canon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/highestsellerscamera/cameras/Canon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/highestsellerscamera/Fuji.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/highestsellerscamera/cameras/Fuji.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/highestsellerscamera/MostSellersCameraIn2018.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/highestsellerscamera/Nikon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/highestsellerscamera/cameras/Nikon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/highestsellerscamera/NikonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/highestsellerscamera/Panasonic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/highestsellerscamera/cameras/Panasonic.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,67 +29,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/Camera.java">
+        <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/cameras/CameraMonthlySales.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="159" selection-start-line="3" selection-start-column="159" selection-end-line="3" selection-end-column="159" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/Canon.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="111" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/Nikon.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="111" selection-start-line="2" selection-start-column="111" selection-end-line="2" selection-end-column="111" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/NikonTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="142" selection-start-line="1" selection-start-column="142" selection-end-line="1" selection-end-column="142" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/Panasonic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="111" selection-start-line="2" selection-start-column="111" selection-end-line="2" selection-end-column="111" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/Fuji.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="111" selection-start-line="2" selection-start-column="111" selection-end-line="2" selection-end-column="111" />
+            <state relative-caret-position="345">
+              <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -81,10 +41,98 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/MostSellersCameraIn2018.java">
+        <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/cameras/YearlySumSale.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="195">
+              <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/cameras/CameraYearlySales.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/MostSellersCameraIn2018Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="1" selection-start-line="16" selection-end-line="16" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/cameras/Nikon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <folding>
+                <element signature="e#350#351#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/cameras/Canon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <folding>
+                <element signature="e#350#351#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/cameras/Panasonic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <folding>
+                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#374#375#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/cameras/Fuji.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <folding>
+                <element signature="e#348#349#0" expanded="true" />
+                <element signature="e#369#370#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/cameras/Camera.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -95,11 +143,14 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="AnnotationType" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -130,23 +181,46 @@
         <option value="$PROJECT_DIR$/src/Canon.java" />
         <option value="$PROJECT_DIR$/src/org/junit/jupiter/api/Test.java" />
         <option value="$PROJECT_DIR$/src/highestsellerscamera/CanonTest.java" />
-        <option value="$PROJECT_DIR$/src/highestsellerscamera/Camera.java" />
         <option value="$PROJECT_DIR$/src/highestsellerscamera/NikonTest.java" />
-        <option value="$PROJECT_DIR$/src/highestsellerscamera/Canon.java" />
         <option value="$PROJECT_DIR$/src/highestsellerscamera/Nikon.java" />
         <option value="$PROJECT_DIR$/src/highestsellerscamera/Panasonic.java" />
         <option value="$PROJECT_DIR$/src/highestsellerscamera/Fuji.java" />
+        <option value="$PROJECT_DIR$/src/highestsellerscamera/Calculation.java" />
+        <option value="$PROJECT_DIR$/src/highestsellerscamera/CameraAndSells.java" />
+        <option value="$PROJECT_DIR$/src/highestsellerscamera/Canon.java" />
+        <option value="$PROJECT_DIR$/src/highestsellerscamera/Camera.java" />
+        <option value="$PROJECT_DIR$/src/highestsellerscamera/cameras/Camera.java" />
+        <option value="$PROJECT_DIR$/src/highestsellerscamera/cameras/Canon.java" />
+        <option value="$PROJECT_DIR$/src/highestsellerscamera/cameras/Fuji.java" />
+        <option value="$PROJECT_DIR$/src/highestsellerscamera/cameras/Nikon.java" />
+        <option value="$PROJECT_DIR$/src/highestsellerscamera/cameras/Panasonic.java" />
+        <option value="$PROJECT_DIR$/src/highestsellerscamera/cameras/CameraAndSells.java" />
+        <option value="$PROJECT_DIR$/src/highestsellerscamera/MostSellersCameraIn2018.java" />
+        <option value="$PROJECT_DIR$/src/highestsellerscamera/MostSellersCameraIn2018Application.java" />
+        <option value="$PROJECT_DIR$/src/highestsellerscamera/cameras/CameraYearlySales.java" />
+        <option value="$PROJECT_DIR$/src/highestsellerscamera/cameras/CameraMonthlySales.java" />
+        <option value="$PROJECT_DIR$/src/highestsellerscamera/cameras/YearlySumSale.java" />
       </list>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="2580" />
-    <option name="height" value="1460" />
+    <option name="y" value="27" />
+    <option name="width" value="776" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -170,6 +244,29 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="highestsellerscamera" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="most-sellers-camera-application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="most-sellers-camera-application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="highestsellerscamera" type="462c0819:PsiDirectoryNode" />
+              <item name="cameras" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="most-sellers-camera-application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="most-sellers-camera-application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="highestsellerscamera" type="462c0819:PsiDirectoryNode" />
+              <item name="cameras" type="462c0819:PsiDirectoryNode" />
+              <item name="CameraMonthlySales" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="most-sellers-camera-application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="most-sellers-camera-application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="highestsellerscamera" type="462c0819:PsiDirectoryNode" />
+              <item name="cameras" type="462c0819:PsiDirectoryNode" />
+              <item name="YearlySumSale" type="1a9f42e2:ClassTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -183,21 +280,25 @@
     <property name="Repository.Attach.Sources" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554403807561" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555376488122" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/junit-jupiter-params-5.3.2.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2510232" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="highestsellerscamera" />
+    </key>
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="highestsellerscamera.cameras" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -218,7 +319,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MostSellersCameraIn2018">
+  <component name="RunManager" selected="Application.M">
     <configuration name="M" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="M" />
       <module name="most-sellers-camera-application" />
@@ -226,8 +327,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MostSellersCameraIn2018" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="highestsellerscamera.MostSellersCameraIn2018" />
+    <configuration name="MostSellersCameraIn2018Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="highestsellerscamera.MostSellersCameraIn2018Application" />
       <module name="most-sellers-camera-application" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -235,7 +336,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MostSellersCameraIn2018" />
+        <item itemvalue="Application.MostSellersCameraIn2018Application" />
         <item itemvalue="Application.M" />
       </list>
     </recent_temporary>
@@ -254,17 +355,23 @@
       <workItem from="1554402150850" duration="932000" />
       <workItem from="1554403115846" duration="607000" />
       <workItem from="1554403773983" duration="57000" />
+      <workItem from="1554736342736" duration="599000" />
+      <workItem from="1554814985702" duration="2006000" />
+      <workItem from="1554900908072" duration="4018000" />
+      <workItem from="1554919182766" duration="598000" />
+      <workItem from="1554920140699" duration="598000" />
+      <workItem from="1555349866315" duration="15279000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23702000" />
+    <option name="totallyTimeSpent" value="46800000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="2062" height="1166" extended-state="6" />
+    <frame x="0" y="27" width="1366" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17682318" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17975831" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -272,8 +379,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3422619" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.24126455" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24792013" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -290,9 +397,10 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32930514" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Mongo Explorer" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,65 +425,119 @@
     <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/CanonTest.java" />
     <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/Camera.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="159" selection-start-line="3" selection-start-column="159" selection-end-line="3" selection-end-column="159" />
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/Canon.java">
+    <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/cameras/NikonTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="111" />
+        <state relative-caret-position="55">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/Nikon.java">
+    <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/Calculation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="111" selection-start-line="2" selection-start-column="111" selection-end-line="2" selection-end-column="111" />
+        <state relative-caret-position="225">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/NikonTest.java">
+    <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/cameras/Canon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="142" selection-start-line="1" selection-start-column="142" selection-end-line="1" selection-end-column="142" />
+        <state relative-caret-position="135">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/cameras/Nikon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/cameras/Panasonic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/cameras/Fuji.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/cameras/Camera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/cameras/CameraYearlySales.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/Panasonic.java">
+    <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/MostSellersCameraIn2018Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="111" selection-start-line="2" selection-start-column="111" selection-end-line="2" selection-end-column="111" />
+        <state relative-caret-position="240">
+          <caret line="16" column="1" selection-start-line="16" selection-end-line="16" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/Fuji.java">
+    <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/cameras/CameraMonthlySales.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="111" selection-start-line="2" selection-start-column="111" selection-end-line="2" selection-end-column="111" />
+        <state relative-caret-position="345">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/MostSellersCameraIn2018.java">
+    <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/cameras/YearlySumSale.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="195">
+          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
