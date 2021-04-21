@@ -1,143 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f0e6a1b-5f55-44ff-80e0-09dfe94bd97b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/highestsellerscamera/MostSellersCameraIn2018Application.java" afterDir="false" />
+    <list default="true" id="2f0e6a1b-5f55-44ff-80e0-09dfe94bd97b" name="Default Changelist" comment="Polymorphism Example with cameras">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/most-sellers-camera-application/highestsellerscamera/Camera.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/most-sellers-camera-application/highestsellerscamera/Canon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/most-sellers-camera-application/highestsellerscamera/Fuji.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/most-sellers-camera-application/highestsellerscamera/MostSellersCameraIn2018.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/most-sellers-camera-application/highestsellerscamera/Nikon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/most-sellers-camera-application/highestsellerscamera/NikonTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/most-sellers-camera-application/highestsellerscamera/Panasonic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/highestsellerscamera/Camera.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/highestsellerscamera/Canon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/highestsellerscamera/cameras/Canon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/highestsellerscamera/Fuji.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/highestsellerscamera/cameras/Fuji.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/highestsellerscamera/MostSellersCameraIn2018.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/highestsellerscamera/Nikon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/highestsellerscamera/cameras/Nikon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/highestsellerscamera/NikonTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/highestsellerscamera/Panasonic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/highestsellerscamera/cameras/Panasonic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/most-sellers-camera-application.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PolymorphismExample.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/most-sellers-camera-application/META-INF/most-sellers-camera-application.kotlin_module" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/cameras/CameraMonthlySales.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/cameras/YearlySumSale.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/cameras/CameraYearlySales.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/MostSellersCameraIn2018Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="1" selection-start-line="16" selection-end-line="16" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/cameras/Nikon.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-              <folding>
-                <element signature="e#350#351#0" expanded="true" />
-                <element signature="e#371#372#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/cameras/Canon.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-              <folding>
-                <element signature="e#350#351#0" expanded="true" />
-                <element signature="e#371#372#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/cameras/Panasonic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-              <folding>
-                <element signature="e#353#354#0" expanded="true" />
-                <element signature="e#374#375#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/cameras/Fuji.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-              <folding>
-                <element signature="e#348#349#0" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/highestsellerscamera/cameras/Camera.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -214,6 +88,7 @@
     <option name="width" value="776" />
     <option name="height" value="741" />
   </component>
+  <component name="ProjectId" id="1rUpeoL28dpLSJFMdmTaCcnpKuv" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -273,6 +148,14 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.Annotations" value="true" />
@@ -287,60 +170,64 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2510232" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="highestsellerscamera" />
-    </key>
-    <key name="MoveInnerDialog.RECENTS_KEY">
-      <recent name="highestsellerscamera.cameras" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.junit.jupiter.api" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="org.junit.jupiter.api" />
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="highestsellerscamera.cameras" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="highestsellerscamera" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.M">
+  <component name="RunManager" selected="Application.PhonesCamerasIn2020">
     <configuration name="M" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="M" />
-      <module name="most-sellers-camera-application" />
+      <module name="PolymorphismExample" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="MostSellersCameraIn2018Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="highestsellerscamera.MostSellersCameraIn2018Application" />
-      <module name="most-sellers-camera-application" />
+      <module name="PolymorphismExample" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhonesCamerasIn2020" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kingcode.PhonesCamerasIn2020" />
+      <module name="PolymorphismExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kingcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PhonesCamerasIn2020" />
         <item itemvalue="Application.MostSellersCameraIn2018Application" />
         <item itemvalue="Application.M" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -362,6 +249,14 @@
       <workItem from="1554920140699" duration="598000" />
       <workItem from="1555349866315" duration="15279000" />
     </task>
+    <task id="LOCAL-00001" summary="Polymorphism Example with cameras">
+      <created>1619043806439</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619043806439</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -404,7 +299,22 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Polymorphism Example with cameras" />
+    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism Example with cameras" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/April.java" />
